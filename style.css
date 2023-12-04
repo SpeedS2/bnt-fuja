@@ -1,0 +1,23 @@
+body{
+  background-color: #EAD7BB;
+}
+h1{
+ line-height: 50px;
+}
+#lol{
+  text-align: center;
+}
+.foto{
+  width: 700px
+}
+#botao{
+  text-align: center;
+}
+button + button{
+  margin-left: 60px;
+}
+button{
+  height:50px;
+  width: 70px;
+  border-radius: 6px;
+}
